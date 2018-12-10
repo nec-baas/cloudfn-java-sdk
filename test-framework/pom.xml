@@ -5,7 +5,7 @@
     <parent>
         <groupId>com.nec.baas.cloudfn.sdk</groupId>
         <artifactId>parent</artifactId>
-        <version>7.5.0</version>
+        <version>7.5.1</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
@@ -16,7 +16,7 @@
 
     <organization>
         <name>NEC Corporation</name>
-        <url>https://jpn.nec.com/iot/platform/iotpfservice/index.html</url>
+        <url>https://nec-baas.github.io</url>
     </organization>
 
     <licenses>
