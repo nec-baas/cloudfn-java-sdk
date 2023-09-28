@@ -1,7 +1,7 @@
 NEC Mobile Backend Platform: CloudFunctions Java SDK
 ====================================================
 
-[![Build Status](https://travis-ci.org/nec-baas/cloudfn-java-sdk.svg?branch=7.5%2Fdevelop)](https://travis-ci.org/nec-baas/cloudfn-java-sdk)
+[![Maven package](https://github.com/nec-baas/cloudfn-java-sdk/actions/workflows/main.yaml/badge.svg?branch=7.5%2Fdevelop)](https://github.com/nec-baas/cloudfn-java-sdk/actions/workflows/main.yaml)
 
 Cloud Functions Java SDK.
 
